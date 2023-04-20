@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.getrandbits" />
+          <option value="str.decode" />
+          <option value="libraries.Assignment3.item2" />
+          <option value="libraries.Assignment3.item1" />
+          <option value="API_Tests.Requests.Resource.*" />
+          <option value="API_Tests.Pytest_Requests.test_requests.*" />
+          <option value="API_Tests.Pytest_Requests.Schema.*" />
+          <option value="Tests.test_request.*" />
+          <option value="API_Tests.Pytest.Schema.*" />
+          <option value="Maze_code.Test.find_shortest_path" />
+          <option value="Maze_code.Test.drawPath" />
+          <option value="Maze_code.Test.source_y" />
+          <option value="Maze_code.Test.source_x" />
+          <option value="Maze_code.Test.bubble_up" />
+          <option value="Vertex" />
+          <option value="Maze_code.Test.bubble_down" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RobotKeywordNotFound" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RobotVariableNotFound" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
